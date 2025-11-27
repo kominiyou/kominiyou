@@ -266,46 +266,50 @@ const bangWily = {
 
 <div align="center">
 
-### 🎧 Sedang Didengarkan (Update Real-Time)
+### 🎧 Sedang Didengarkan (Real-Time Update)
 
-> **⏳ SETUP: Untuk real-time Spotify playing, aktifkan GitHub Actions dengan file workflow di folder `.github/workflows/`**
-
-```yaml
-name: Update Spotify Status
-on:
-  schedule:
-    - cron: '*/30 * * * *'  # Update setiap 30 menit
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Update Spotify Now Playing
-        uses: marketplace-actions/spotify-now-playing@latest
+```
+🎵 Sekarang memutar...
+Sedang menunggu data dari Spotify 🎶
 ```
 
-### 🎶 Lagu Anime Favorit YOASOBI
+> **💡 Real-Time Spotify Update:** Gunakan service di bawah untuk live now-playing status!
 
-| 🎵 | Judul Lagu | Artis | Genre | Link Spotify |
-|:---:|:---|:---|:---|:---:|
-| 🔥 | **Yoru ni Kakeru** | YOASOBI | Anime OST | [![Play](https://img.shields.io/badge/▶_Play-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/4qjJNdiA92bDQEXi4OVu8I) |
-| 🌙 | **Idol** | YOASOBI | J-Pop | [![Play](https://img.shields.io/badge/▶_Play-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/0JyIoW5LH5H0WbzIrtSUAb) |
-| 💫 | **Tabun** | YOASOBI | J-Pop | [![Play](https://img.shields.io/badge/▶_Play-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/1AX5dVUUzWNK4ITNV9PYHk) |
-| ✨ | **Towa** | YOASOBI | Anime OST | [![Play](https://img.shields.io/badge/▶_Play-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/6dSpwqrLR8YbhGMBmOx1xa) |
-| 🎌 | **Racing Into Dream** | YOASOBI | Anime OST | [![Play](https://img.shields.io/badge/▶_Play-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/3EkCnKLlIcRp7QiVyX2dWa) |
-| 🎼 | **The Floating World** | YOASOBI | Anime OST | [![Play](https://img.shields.io/badge/▶_Play-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/3s7KquQ1fbMHaaBQHWxIlT) |
+[![Spotify Now Playing](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/31yxkz3ey6cxzw2ytkevyqxozbja)
 
-### 🎼 Playlist Rekomendasi Coding
+**📱 Alternatif Real-Time:**
+- 🎵 [Spotify Web Player](https://open.spotify.com/user/31yxkz3ey6cxzw2ytkevyqxozbja)
+- 📊 [Wakatime + Spotify Integration](https://wakatime.com/@Wilykun1994)
 
-[![Lo-Fi Coding](https://img.shields.io/badge/🎵_Lo--Fi%20Coding-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0DZ4yYFjYBssTIgMpQpDa0)
-[![Anime OST](https://img.shields.io/badge/🎌_Anime%20OST-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXxYNvZjW2OPP)
-[![Gaming Music](https://img.shields.io/badge/🎮_Gaming%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwUI7WrQB)
+---
+
+### 🎶 Lagu Anime Favorit YOASOBI ⭐
+
+| 🎵 | Judul | Artis | Link Spotify |
+|:---:|:---|:---|:---:|
+| 🔥 | **Yoru ni Kakeru** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/4qjJNdiA92bDQEXi4OVu8I?si=1) |
+| 🌙 | **Idol** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/0JyIoW5LH5H0WbzIrtSUAb?si=1) |
+| 💫 | **Tabun** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/1AX5dVUUzWNK4ITNV9PYHk?si=1) |
+| ✨ | **Towa** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/6dSpwqrLR8YbhGMBmOx1xa?si=1) |
+| 🎌 | **Racing Into Dream** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/3EkCnKLlIcRp7QiVyX2dWa?si=1) |
+| 🎼 | **The Floating World** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/3s7KquQ1fbMHaaBQHWxIlT?si=1) |
+| 🌸 | **Kaibutsu** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/2takcwFFfjAfKJbJJK4mVa?si=1) |
+| 🌊 | **Ocean & Kakure Ren'ai** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/4s7bkdMkN6FWZQD4t3oLKG?si=1) |
+
+### 🎼 Playlist & Artist
+
+| 📻 | Deskripsi | Link |
+|:---:|:---|:---:|
+| 🎌 | **YOASOBI Official Playlist** | [![Spotify](https://img.shields.io/badge/YOASOBI-0066cc?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/28H7KfyXR5N6BDwn7Y7w8w) |
+| 🎵 | **Anime OST Collection** | [![Playlist](https://img.shields.io/badge/Anime_OST-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXxYNvZjW2OPP) |
+| 🎮 | **Lo-Fi Coding Mix** | [![Playlist](https://img.shields.io/badge/Lo--Fi_Coding-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0DZ4yYFjYBssTIgMpQpDa0) |
+| 🎬 | **Gaming & Chill** | [![Playlist](https://img.shields.io/badge/Gaming_Music-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwUI7WrQB) |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 Rare GitHub Features
+## 🔥 Advanced & Rare GitHub Features
 
 <div align="center">
 
@@ -323,6 +327,76 @@ jobs:
 
 ### 🔒 GitHub Security
 ![Security Dependabot](https://img.shields.io/badge/Dependabot-🔒%20Enabled-yellow?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 💬 GitHub Discussions
+[![Discussions](https://img.shields.io/badge/GitHub%20Discussions-💬%20Active-181717?style=for-the-badge&logo=github)](https://github.com/Wilykun1994)
+> Forum untuk komunitas, Q&A, dan sharing ideas!
+
+### 💰 GitHub Sponsors
+[![Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-❤️%20Support-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Wilykun1994)
+> Dukung project saya melalui sponsorship!
+
+### 📑 GitHub Pages
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-🌐%20Live-222?style=for-the-badge&logo=github-pages)](https://Wilykun1994.github.io)
+> Portfolio & Blog showcase
+
+### 🔐 CodeQL Security Analysis
+![CodeQL](https://img.shields.io/badge/CodeQL-🔍%20Scanning-ff7043?style=for-the-badge&logo=github&logoColor=white)
+> Advanced static analysis untuk keamanan kode
+
+### 🎯 GitHub Projects (Beta)
+[![Projects](https://img.shields.io/badge/GitHub%20Projects-📋%20Kanban-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/Wilykun1994/projects)
+> Manajemen project dengan board otomatis
+
+### 📦 GitHub Package Registry
+[![Packages](https://img.shields.io/badge/Package%20Registry-📦%20Published-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wilykun1994?tab=packages)
+> Share custom packages & libraries
+
+### 🔗 GitHub CLI Power User
+![GitHub CLI](https://img.shields.io/badge/GitHub%20CLI-⚡%20Pro-238636?style=for-the-badge&logo=github-cli&logoColor=white)
+> Menggunakan GH CLI untuk automation
+
+### 📊 Repository Analytics Dashboard
+[![Analytics](https://img.shields.io/badge/Repository%20Analytics-📈%20Insights-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wilykun1994?tab=repositories)
+> Real-time traffic, insights, dan metrics
+
+### 🏷️ Issue & PR Templates
+![Templates](https://img.shields.io/badge/Issue%20Templates-📝%20Configured-a371f7?style=for-the-badge&logo=github&logoColor=white)
+> Standardized templates untuk workflow efficiency
+
+### 🚀 GitHub Actions Automation
+[![Actions](https://img.shields.io/badge/GitHub%20Actions-🤖%20Automated-3fb950?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/Wilykun1994/workflows)
+> CI/CD pipeline & auto-deployment configured
+
+### 📤 Git Large File Storage
+![LFS](https://img.shields.io/badge/Git%20LFS-📦%20Enabled-ec6e2f?style=for-the-badge&logo=git&logoColor=white)
+> Support untuk large media files
+
+### 🔏 GPG Commit Signatures
+![GPG](https://img.shields.io/badge/GPG%20Verified-✅%20Signed-2e8555?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
+> All commits digitally signed untuk authenticity
+
+### 📱 GitHub Mobile
+[![Mobile](https://img.shields.io/badge/GitHub%20Mobile-📱%20Active-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://mobile.github.com)
+> Manage repositories on the go
+
+### 🎓 GitHub Copilot Labs
+![Labs](https://img.shields.io/badge/Copilot%20Labs-🧪%20Experimenting-20c997?style=for-the-badge&logo=github&logoColor=white)
+> Testing experimental AI features
+
+### 🔔 Advanced GitHub Notifications
+![Notifications](https://img.shields.io/badge/Smart%20Notifications-🔔%20Optimized-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+> Custom notification rules configured
+
+### 📌 Pinned Repositories
+![Pinned](https://img.shields.io/badge/Featured%20Repos-⭐%20Pinned-3fb950?style=for-the-badge&logo=github&logoColor=white)
+> Top projects highlighted di profile
+
+### 🌐 Custom Domain Setup
+[![Custom Domain](https://img.shields.io/badge/Custom%20Domain-🌍%20Configured-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://bangwily.dev)
+> Personal brand GitHub Pages
 
 </div>
 
