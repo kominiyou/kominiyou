@@ -1,138 +1,165 @@
-# 🤖 Wily Bot - WhatsApp Automation
+<div align="center">
+  
+# 👨‍💻 Selamat Datang di Profil Saya! 
 
-Bot WhatsApp otomatis dengan Baileys untuk handler pesan, event, dan integrasi Telegram dengan database JSON.
+<img src="IMG/anime_girl_coding_at_night_window.png" alt="Anime Coder" width="800"/>
 
-## ✨ Fitur Utama
+### 🎮 Game Developer | 💻 Programmer | 🎨 Creative Coder
 
-- ✅ Otomasi pesan WhatsApp real-time
-- ✅ Handler event dan message processing
-- ✅ Integrasi Telegram seamless
-- ✅ Database JSON untuk penyimpanan data
-- ✅ QR Code terminal untuk autentikasi
-- ✅ Environment variable configuration
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Halo%2C+Selamat+Datang!;Saya+Seorang+Developer;Mari+Berkolaborasi+Bersama!)](https://git.io/typing-svg)
 
-## 🚀 Quick Start
+</div>
 
-### Prerequisites
-- Node.js v16+
-- npm atau yarn
+---
 
-### Installation
-
-```bash
-# Clone repository
-git clone https://github.com/kominiyou/wily-bot.git
-cd wily-bot
-
-# Install dependencies
-npm install
-
-# Setup environment
-cp .env.example .env
-```
-
-### Configuration
-
-Edit file `.env` dengan konfigurasi Anda:
-
-```env
-# WhatsApp Configuration
-BOT_NAME=Wily Bot
-
-# Telegram Integration (optional)
-TELEGRAM_TOKEN=your_token_here
-```
-
-### Running
-
-Development mode dengan auto-reload:
-```bash
-npm run dev
-```
-
-Production mode:
-```bash
-npm start
-```
-
-## 📁 Project Structure
-
-```
-wily-bot/
-├── src/
-│   ├── index.js           # Entry point
-│   ├── db/
-│   │   └── json.js        # JSON database handler
-│   ├── handler/
-│   │   ├── event.js       # Event handler
-│   │   └── message.js     # Message handler
-│   └── helper/
-│       ├── telegram.js    # Telegram integration
-│       ├── text.js        # Text utilities
-│       ├── utils.js       # General utilities
-│       ├── inject.js      # Injection helpers
-│       └── index.js       # Helper exports
-├── sessions/              # WhatsApp sessions
-├── package.json
-└── .env                   # Environment variables
-```
-
-## 🔧 Dependencies
-
-- **[Baileys](https://github.com/WhiskeySockets/Baileys)** - WhatsApp Web API wrapper
-- **[dotenv](https://github.com/motdotla/dotenv)** - Environment variable loader
-- **[qrcode-terminal](https://github.com/gtanner/qrcode-terminal)** - QR code display
-
-## 📖 Usage
-
-### Dasar
-
-Bot akan menampilkan QR code saat pertama kali dijalankan. Scan dengan WhatsApp untuk login.
+## 🚀 Tentang Saya
 
 ```javascript
-// Example: Mengirim pesan
-await sock.sendMessage(chatId, { text: "Hello World!" });
+const developer = {
+    nama: "Developer Keren",
+    lokasi: "Indonesia 🇮🇩",
+    passion: ["Game Development", "Web Development", "Creative Coding"],
+    motto: "Belajar, Berkarya, Berkontribusi!"
+};
 ```
 
-### Handler Pesan
+Saya adalah seorang developer yang passionate dalam membuat aplikasi dan game yang menarik. Selalu semangat untuk belajar teknologi baru dan berbagi ilmu dengan komunitas!
 
-Implementasi custom message handler di `src/handler/message.js` untuk merespons pesan otomatis.
+---
 
-### Integrasi Telegram
+## 🛠️ Tech Stack & Skills
 
-Configure Telegram token di `.env` dan gunakan functions di `src/helper/telegram.js`.
+### 💻 Bahasa Pemrograman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,go,rust" />
+</p>
 
-## 🤝 Kontribusi
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs,tailwind,bootstrap,sass" />
+</p>
 
-Kontribusi welcome! Silakan:
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,dotnet,laravel" />
+</p>
 
-1. Fork repository
-2. Buat feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
+### 🗄️ Database & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,aws,gcp,docker,kubernetes" />
+</p>
 
-## ⚠️ Disclaimer
+### 🎮 Game Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender" />
+</p>
 
-Bot ini untuk tujuan edukatif. Pastikan Anda mematuhi ToS WhatsApp dan hukum lokal yang berlaku.
+### 🔧 Tools & Platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,linux" />
+</p>
 
-## 📝 License
+---
 
-MIT License - Lihat file [LICENSE](LICENSE) untuk detail.
+## 📊 GitHub Stats
 
-## 👤 Author
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
 
-**Wily Kaish**
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+  
+</div>
 
-- GitHub: [@kominiyou](https://github.com/kominiyou)
-- Email: Contact via GitHub
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+---
+
+## 🌟 Project Unggulan
+
+<div align="center">
+
+| 🎮 Game Projects | 💻 Web Projects | 🛠️ Tools |
+|:---:|:---:|:---:|
+| Game Keren 1 | Website Awesome | Tool Berguna |
+| Game Keren 2 | Aplikasi Web | Automation Script |
+
+</div>
+
+---
+
+## 📈 Aktivitas Coding
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 30 mins  ███████████░░░░░░░░░░  45.2%
+Python       5 hrs 15 mins   █████░░░░░░░░░░░░░░░░  22.6%
+TypeScript   4 hrs 45 mins   ████░░░░░░░░░░░░░░░░░  20.4%
+CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░  6.5%
+Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░  5.3%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 Mari Terhubung!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+## 💡 Quote Favorit
+
+<div align="center">
+  
+> *"Kode yang baik adalah kode yang bisa dibaca oleh manusia, bukan hanya komputer."*
+
+</div>
+
+---
+
+## 🎵 Sedang Didengarkan
+
+<div align="center">
+  
+[![Spotify](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY)
+
+</div>
 
 ---
 
 <div align="center">
+  
+### 👀 Visitor Count
+  
+![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
 
-Made with ❤️ by [Wily Kaish](https://github.com/kominiyou)
+### ⭐ Terima kasih sudah berkunjung!
 
-⭐ Jika project ini membantu, berikan star!
+*Jangan lupa untuk memberikan ⭐ pada repository yang menarik!*
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom"/>
 
 </div>
