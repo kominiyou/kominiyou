@@ -1,12 +1,12 @@
 <div align="center">
   
-# 👨‍💻 Selamat Datang di Profil Saya! 
+# 👋 Halo, Saya Bang Wily! 
 
 <img src="IMG/anime_girl_coding_at_night_window.png" alt="Anime Coder" width="800"/>
 
 ### 🎮 Game Developer | 💻 Programmer | 🎨 Creative Coder
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Halo%2C+Selamat+Datang!;Saya+Seorang+Developer;Mari+Berkolaborasi+Bersama!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Halo%2C+Selamat+Datang!;Saya+Bang+Wily;Mari+Berkolaborasi+Bersama!)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```javascript
 const developer = {
-    nama: "Developer Keren",
+    nama: "Bang Wily",
     lokasi: "Indonesia 🇮🇩",
     passion: ["Game Development", "Web Development", "Creative Coding"],
     motto: "Belajar, Berkarya, Berkontribusi!"
@@ -24,6 +24,57 @@ const developer = {
 ```
 
 Saya adalah seorang developer yang passionate dalam membuat aplikasi dan game yang menarik. Selalu semangat untuk belajar teknologi baru dan berbagi ilmu dengan komunitas!
+
+---
+
+## 👑 Owner Information
+
+<div align="center">
+
+| 🔰 Info | 📝 Detail |
+|:---:|:---|
+| 👤 **Nama** | Bang Wily |
+| 📱 **WhatsApp** | `+62 896-8820-6739` |
+| ✈️ **Telegram** | [@Wilykun1994](https://t.me/Wilykun1994) |
+| 📧 **Email** | kunwily1994@gmail.com |
+
+</div>
+
+---
+
+## 📢 Channel & Sosial Media
+
+<div align="center">
+
+### 💬 WhatsApp Channel
+
+| 📺 Channel | 🔗 Link |
+|:---:|:---|
+| 📗 **WhatsApp Channel V1** | [Klik Untuk Bergabung](https://whatsapp.com/channel/0029VaiyhS37IUYSuDJoJj1L) |
+| 📗 **WhatsApp Channel V2** | [Klik Untuk Bergabung](https://whatsapp.com/channel/0029Vavn0K2IHphFVpTvgz1V) |
+
+### 🆔 Newsletter JID
+
+```
+📌 V1: 120363312297133690@newsletter
+📌 V2: 120363381836894390@newsletter
+```
+
+</div>
+
+---
+
+## 🌐 Sosial Media
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wilykun1994)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289688206739)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wily.kun.1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ukosamasomoni1956)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunwily1994@gmail.com)
+
+</div>
 
 ---
 
@@ -65,14 +116,14 @@ Saya adalah seorang developer yang passionate dalam membuat aplikasi dan game ya
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wilykun1994&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilykun1994&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Wilykun1994&theme=tokyonight)](https://git.io/streak-stats)
   
 </div>
 
@@ -82,7 +133,7 @@ Saya adalah seorang developer yang passionate dalam membuat aplikasi dan game ya
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Wilykun1994&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -115,21 +166,6 @@ Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🤝 Mari Terhubung!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
 ## 💡 Quote Favorit
 
 <div align="center">
@@ -140,21 +176,37 @@ Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Sedang Didengarkan
-
-<div align="center">
-  
-[![Spotify](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY)
-
-</div>
-
----
-
 <div align="center">
   
 ### 👀 Visitor Count
   
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Wilykun1994/count.svg)
+
+---
+
+### 📞 Hubungi Saya
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/Wilykun1994">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/6289688206739">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:kunwily1994@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### ⭐ Terima kasih sudah berkunjung!
 
