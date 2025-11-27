@@ -285,25 +285,72 @@ Sedang menunggu data dari Spotify 🎶
 
 ### 🎶 Lagu Anime Favorit YOASOBI ⭐
 
-| 🎵 | Judul | Artis | Link Spotify |
-|:---:|:---|:---|:---:|
-| 🔥 | **Yoru ni Kakeru** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/4qjJNdiA92bDQEXi4OVu8I?si=1) |
-| 🌙 | **Idol** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/0JyIoW5LH5H0WbzIrtSUAb?si=1) |
-| 💫 | **Tabun** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/1AX5dVUUzWNK4ITNV9PYHk?si=1) |
-| ✨ | **Towa** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/6dSpwqrLR8YbhGMBmOx1xa?si=1) |
-| 🎌 | **Racing Into Dream** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/3EkCnKLlIcRp7QiVyX2dWa?si=1) |
-| 🎼 | **The Floating World** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/3s7KquQ1fbMHaaBQHWxIlT?si=1) |
-| 🌸 | **Kaibutsu** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/2takcwFFfjAfKJbJJK4mVa?si=1) |
-| 🌊 | **Ocean & Kakure Ren'ai** | YOASOBI | [![▶ Play](https://img.shields.io/badge/▶-Play_Now-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/4s7bkdMkN6FWZQD4t3oLKG?si=1) |
+<table>
+<tr>
+<td width="15%">🎵</td>
+<td width="35%">Judul Lagu</td>
+<td width="20%">Artis</td>
+<td width="30%">🎵 Play</td>
+</tr>
+<tr>
+<td>🔥</td>
+<td><b>Yoru ni Kakeru</b></td>
+<td>YOASOBI</td>
+<td><a href="https://open.spotify.com/track/4qjJNdiA92bDQEXi4OVu8I"><img src="https://img.shields.io/badge/Play-1DB954?style=flat&logo=spotify&logoColor=white"></a></td>
+</tr>
+<tr>
+<td>🌙</td>
+<td><b>Idol</b></td>
+<td>YOASOBI</td>
+<td><a href="https://open.spotify.com/track/0JyIoW5LH5H0WbzIrtSUAb"><img src="https://img.shields.io/badge/Play-1DB954?style=flat&logo=spotify&logoColor=white"></a></td>
+</tr>
+<tr>
+<td>💫</td>
+<td><b>Tabun</b></td>
+<td>YOASOBI</td>
+<td><a href="https://open.spotify.com/track/1AX5dVUUzWNK4ITNV9PYHk"><img src="https://img.shields.io/badge/Play-1DB954?style=flat&logo=spotify&logoColor=white"></a></td>
+</tr>
+<tr>
+<td>✨</td>
+<td><b>Towa</b></td>
+<td>YOASOBI</td>
+<td><a href="https://open.spotify.com/track/6dSpwqrLR8YbhGMBmOx1xa"><img src="https://img.shields.io/badge/Play-1DB954?style=flat&logo=spotify&logoColor=white"></a></td>
+</tr>
+<tr>
+<td>🎌</td>
+<td><b>Racing Into Dream</b></td>
+<td>YOASOBI</td>
+<td><a href="https://open.spotify.com/track/3EkCnKLlIcRp7QiVyX2dWa"><img src="https://img.shields.io/badge/Play-1DB954?style=flat&logo=spotify&logoColor=white"></a></td>
+</tr>
+<tr>
+<td>🎼</td>
+<td><b>The Floating World</b></td>
+<td>YOASOBI</td>
+<td><a href="https://open.spotify.com/track/3s7KquQ1fbMHaaBQHWxIlT"><img src="https://img.shields.io/badge/Play-1DB954?style=flat&logo=spotify&logoColor=white"></a></td>
+</tr>
+<tr>
+<td>🌸</td>
+<td><b>Kaibutsu</b></td>
+<td>YOASOBI</td>
+<td><a href="https://open.spotify.com/track/2takcwFFfjAfKJbJJK4mVa"><img src="https://img.shields.io/badge/Play-1DB954?style=flat&logo=spotify&logoColor=white"></a></td>
+</tr>
+<tr>
+<td>🌊</td>
+<td><b>Ocean & Kakure Ren'ai</b></td>
+<td>YOASOBI</td>
+<td><a href="https://open.spotify.com/track/4s7bkdMkN6FWZQD4t3oLKG"><img src="https://img.shields.io/badge/Play-1DB954?style=flat&logo=spotify&logoColor=white"></a></td>
+</tr>
+</table>
+
+<br>
 
 ### 🎼 Playlist & Artist
 
-| 📻 | Deskripsi | Link |
-|:---:|:---|:---:|
-| 🎌 | **YOASOBI Official Playlist** | [![Spotify](https://img.shields.io/badge/YOASOBI-0066cc?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/28H7KfyXR5N6BDwn7Y7w8w) |
-| 🎵 | **Anime OST Collection** | [![Playlist](https://img.shields.io/badge/Anime_OST-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXxYNvZjW2OPP) |
-| 🎮 | **Lo-Fi Coding Mix** | [![Playlist](https://img.shields.io/badge/Lo--Fi_Coding-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0DZ4yYFjYBssTIgMpQpDa0) |
-| 🎬 | **Gaming & Chill** | [![Playlist](https://img.shields.io/badge/Gaming_Music-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwUI7WrQB) |
+<div>
+
+[🎌 YOASOBI Official Artist](https://open.spotify.com/artist/28H7KfyXR5N6BDwn7Y7w8w) • [🎵 Anime OST Collection](https://open.spotify.com/playlist/37i9dQZF1DXxYNvZjW2OPP) • [🎮 Lo-Fi Coding Mix](https://open.spotify.com/playlist/0DZ4yYFjYBssTIgMpQpDa0) • [🎬 Gaming & Chill](https://open.spotify.com/playlist/37i9dQZF1DWWQRwUI7WrQB)
+
+</div>
 
 </div>
 
